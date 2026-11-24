@@ -1,30 +1,120 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aphirak Chantakhat
-==========================================================================================================================================
+<div align="center">
 
-I am currently in the fourth year of computer engineering at the University of Phayao.
---------------------------------------------------------------------------------------
+# Hi there, I'm Aphirak Chantakhat 👋
+### Software Engineer | Enterprise Backend & Distributed Systems | AI Agentic Workflows
 
-I am ready to learn about IoT and smart solutions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aphirak-chantakhat/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AphirakChantakhat)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aphirak.chantakhat@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/AphirakChantakhat/aphirak-portfolio)
 
-* 🌍  I'm based in Thailand
-* ✉️  You can contact me at [aphirak.chantakhat@gmail.com](mailto:aphirak.chantakhat@gmail.com)
-* 🧠  I'm learning espressif/esp-idf, Arduino IDE, Python, Line notify
-
-### Skills
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+<p align="center">
+  📍 <b>Based in Thailand</b> &nbsp;•&nbsp; 💼 <b>Open for Technical Discussions & Collaborations</b>
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.facebook.com/apirak.jantakhat/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/AphirakChantakhat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
+</div>
 
-<b>My GitHub Stats</b>
+## 👨‍💻 About Me
 
-<a href="http://www.github.com/AphirakChantakhat"><img src="https://github-readme-stats.vercel.app/api?username=AphirakChantakhat&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&show_icons=true" alt="AphirakChantakhat's GitHub stats" /></a>
+I am a passionate **Software Engineer** focused on building robust, scalable enterprise systems and modern software architectures. My core expertise spans **Backend Development, Microservices, Distributed Systems, and Autonomous AI Agentic Orchestration**.
 
-<a href="http://www.github.com/AphirakChantakhat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AphirakChantakhat&stroke=ffffff&background=22272e&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- 🔭 **Current Focus**: Designing high-throughput backend services, event-driven architectures, and multi-agent AI engineering teams.
+- 💡 **Philosophy**: Clean architecture, test-driven reliability, automated quality gates, and seamless developer experience.
+- 🌱 **Continuous Learning**: Deepening knowledge in high-scale cloud-native patterns, resilient microservices, and LLM-driven orchestration.
 
-<a href="https://github.com/AphirakChantakhat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AphirakChantakhat&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏢 <a href="https://github.com/AphirakChantakhat/ai-agent-office">AI Agent Virtual Office</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/MIT_License-green?style=flat-square" />
+      </p>
+      <p>A real-time 3D Voxel Telemetry Dashboard and autonomous 6-role AI software engineering team orchestrating Waterfall development cycles with live visual telemetry.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 <a href="https://github.com/AphirakChantakhat/aphirak-portfolio">Personal Portfolio Showcase</a></h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/Responsive_Design-blue?style=flat-square" />
+      </p>
+      <p>Showcase portfolio website exhibiting software engineering projects, web applications, and interactive demonstrations.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Technical Skills & Tools
+
+<table>
+  <tr>
+    <td width="20%"><b>Backend & Core</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend & UI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Architecture & DevOps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Microservices-grey?style=flat-square&logo=serverless&logoColor=white" />
+      <img src="https://img.shields.io/badge/REST_APIs-grey?style=flat-square" />
+      <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=AphirakChantakhat&show_icons=true&title_color=3b82f6&text_color=ffffff&icon_color=60a5fa&bg_color=0d1117&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AphirakChantakhat&layout=compact&title_color=3b82f6&text_color=ffffff&icon_color=60a5fa&bg_color=0d1117&hide_border=true" alt="Top Languages" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AphirakChantakhat&theme=dark&background=0d1117&stroke=3b82f6&ring=3b82f6&fire=3b82f6&currStreakNum=ffffff&sideNums=ffffff&sideLabels=60a5fa&dates=9ca3af&hide_border=true" alt="Streak Stats" />
+</p>
+
+---
+
+<div align="center">
+  <sub>Designed & engineered with precision by <b>Aphirak Chantakhat</b></sub>
+</div>
